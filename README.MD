@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi there👋, this is Rahul</h1>
 - 🌱 I’m currently learning **ML**
 
 - 📫 Reach me **f20200204@hyderabad.bits-pilani.ac.in**
