@@ -1,7 +1,9 @@
 <h1 align="center">Hi there👋, this is Rahul</h1>
+<ul>
 🌱 I’m currently learning ML
 
 📫 Reach me **f20200204@hyderabad.bits-pilani.ac.in**
+ <ul>
 
 <h2 align="center">Let's Connect:</h2>
 <p align="center">
