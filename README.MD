@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, this is Rahul</h1>
 <ul>
-🌱 I’m currently learning ML
+<li>🌱 I’m currently learning ML</li>
 
-📫 Reach me **f20200204@hyderabad.bits-pilani.ac.in**
+<li>📫 Reach me **f20200204@hyderabad.bits-pilani.ac.in**</li>
  <ul>
 
 <h2 align="center">Let's Connect:</h2>
