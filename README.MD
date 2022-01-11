@@ -3,7 +3,7 @@
 
 - 📫 Reach me **f20200204@hyderabad.bits-pilani.ac.in**
 
-<h3 align="center">Let's Connect:</h3>
+<h2 align="center">Let's Connect:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/sai-rahul01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-rahul01" height="30" width="40" /></a>
 <a href="https://kaggle.com/sairahul04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sairahul04" height="30" width="40" /></a>
