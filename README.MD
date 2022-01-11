@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, this is Rahul</h1>
 -  🌱 I’m currently learning ML<br>
-- 📫 Reach me **f20200204@hyderabad.bits-pilani.ac.in**
+- 📫 Reach me ==f20200204@hyderabad.bits-pilani.ac.in==
 
 <h2 align="center">Let's Connect:</h2>
 <p align="center">
